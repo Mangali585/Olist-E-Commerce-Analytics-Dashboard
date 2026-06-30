@@ -10,7 +10,7 @@ The dashboard was built in Microsoft Excel using Power Query, Power Pivot, DAX M
 
 ## Dashboard Preview
 
-
+![Dashboard](dashboard.png)
 
 ## Tools & Technologies
 
@@ -123,6 +123,16 @@ Through this project, I gained hands-on experience with:
 ```
 
 ---
+
+## Excel Workbook
+
+
+
+The complete Excel dashboard workbook can be downloaded here:
+
+
+
+[Download Excel Dashboard](https://docs.google.com/spreadsheets/d/1vcaTBEAHtJsmKlOUuD9Lh_wfSGLICqCz/edit?usp=sharing&ouid=110936175590842988155&rtpof=true&sd=true)
 
 ## Author
 
